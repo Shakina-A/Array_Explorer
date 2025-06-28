@@ -1,0 +1,25 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+    text-align: center;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20201101/pngtree-3d-rendering-for-display-product-banner-on-website-image_453005.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+input,button{
+    margin: 10px;
+    padding: 8px;
+}
+
+.result{
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#Input{
+    width: 4vw;
+}
+input{
+    width: 20vw;
+}
